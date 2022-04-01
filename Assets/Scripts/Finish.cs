@@ -18,7 +18,7 @@ public class Finish : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision) 
     {
-        if (collision.gameObject.name == "Player")
+        if (collision.gameObject.name == "Charactor")
         {
             finishSound.Play();
             levelCompleted = true;

@@ -4,11 +4,13 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - coin
-  - H0
-  - H1
-  - H2
   - gem
+  - saw
+  - Die_Level
+  - Heart1
+  - Heart2
+  - Heart3
+  - Charactor
   layers:
   - Default
   - TransparentFX
